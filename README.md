@@ -22,7 +22,7 @@ The simulator evaluates a deterministic queue of 16 orders (SF, SF, D, D, ...).
 The simulation identifies the **11-second plate respawn** as the absolute physical bottleneck for reactive systems, mirroring high-level human performance (~12 orders).
 
 ## 📂 Files
-- `simulator.py`: The main simulation engine.
+- `makalah.py`: The main simulation engine.
 - `KOORDINAT.txt`: Mapping of kitchen workstations to (x, y) tuples.
 - `LAYOUT.csv`: Structural map of the Kevin 1 environment.
 
