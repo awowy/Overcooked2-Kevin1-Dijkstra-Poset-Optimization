@@ -1,0 +1,28 @@
+W= 2,0
+P=3,0
+D=12,0
+S=13-14,0
+G=8,1
+O=8,2-3;8,6-7
+X=0,3;2,3;
+K=0,6;2,6;14,6;16,6
+T=14,3;16,3
+M=4,9
+I=12,9
+F=13,9
+
+C : counter
+red M : raw meat
+red I : raw fish
+red F : flour
+O : a counter but the initial plates are put there
+W : where you wash the plates
+P : where the cleaned plates will be put 
+D : where the dirty plates will appear
+S : where you can serve the order
+blue X : the mixer
+blue K : cutting boards
+blue T : steamer
+big green S : the stairs (so the workplace is a little bit lower level than the rest of the level [the one surrounded by the green walls])
+green walls : you can still throw object on top of it and it will snap to the nearest tile
+the empty tiles mean you can walk on top of it (pathway)
